@@ -1,0 +1,86 @@
+package jest;
+
+import java.util.HashMap;
+
+public class LinkMapGenerator {
+
+	static public HashMap<String, String> getLinkMap() {
+		HashMap<String, String> linkMap = new HashMap<String, String>();
+		linkMap.put("국어국문학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=69	");
+		linkMap.put("영어영문학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=366	");
+		linkMap.put("일어일문학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=436	");
+		linkMap.put("중어중문학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=520	");
+		linkMap.put("독일학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=124	");
+		linkMap.put("사학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=236	");
+		linkMap.put("사회학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=243	");
+		linkMap.put("철학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=548	");
+		linkMap.put("행정학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=639	");
+		linkMap.put("정치외교학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=492	");
+		linkMap.put("언론홍보학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=344	");
+		linkMap.put("경영학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=23	");
+		linkMap.put("관광경영학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=10139	");
+		linkMap.put("회계학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=662	");
+		linkMap.put("무역학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=72	");
+		linkMap.put("경제학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=25	");
+		linkMap.put("관광개발학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=10139	");
+		linkMap.put("경영정보학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=10139	");
+		linkMap.put("국어교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=68	");
+		linkMap.put("영어교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=365	");
+		linkMap.put("윤리교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=63	");
+		linkMap.put("일반사회교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=431	");
+		linkMap.put("지리교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=526	");
+		linkMap.put("수학교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=299	");
+		linkMap.put("컴퓨터교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=571	");
+		linkMap.put("생물교육전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=263	");
+		linkMap.put("물리교육전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=174	");
+		linkMap.put("체육교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=551	");
+		linkMap.put("식물자원환경전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=450	");
+		linkMap.put("원예환경전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=383	");
+		linkMap.put("바이오소재전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=324	");
+		linkMap.put("분자생명공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=260	");
+		linkMap.put("동물생명공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=260	");
+		linkMap.put("산업응용경제학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=25	");
+		linkMap.put("해양생명과학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=342	");
+		linkMap.put("수산생명의학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=342	");
+		linkMap.put("해양산업경찰학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=630	");
+		linkMap.put("지구해양과학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=525	");
+		linkMap.put("환경공학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=653	");
+		linkMap.put("토목공학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=588	");
+		linkMap.put("해양시스템공학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=634	");
+		linkMap.put("물리학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=177	");
+		linkMap.put("생물학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=265	");
+		linkMap.put("화학코스메틱스학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=649	");
+		linkMap.put("식품영양학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=318	");
+		linkMap.put("수학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=298	");
+		linkMap.put("전산통계학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=591	");
+		linkMap.put("아동생활복지전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=333	");
+		linkMap.put("주거가족복지전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=7	");
+		linkMap.put("패션의류학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=407	");
+		linkMap.put("체육학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=552	");
+		linkMap.put("식품생명공학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=314	");
+		linkMap.put("기계공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=86	");
+		linkMap.put("메카트로닉스공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=151	");
+		linkMap.put("전파정보통신공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=490	");
+		linkMap.put("에너지공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=448	");
+		linkMap.put("컴퓨터공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=290	");
+		linkMap.put("전자공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=469	");
+		linkMap.put("전기공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=459	");
+		linkMap.put("생명화학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=260	");
+		linkMap.put("건축공학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=17	");
+		linkMap.put("건축학전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=20	");
+		linkMap.put("의예과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=413	");
+		linkMap.put("초등교육과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=554	");
+		linkMap.put("수의예과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=296	");
+		linkMap.put("간호학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=10	");
+		linkMap.put("음악학부",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=396	");
+		linkMap.put("미술학부",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=184	");
+		linkMap.put("멀티미디어디자인전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=575	");
+		linkMap.put("문화조형디자인전공",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=508	");
+		linkMap.put("건강뷰티향장학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=10040	");
+		linkMap.put("실버케어복지학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=103	");
+		linkMap.put("관광융복합학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=46	");
+		linkMap.put("부동산관리학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=221	");
+		linkMap.put("약학과",	"http://www.career.go.kr/cnet/front/base/major/FunivMajorView.do?SEQ=341	");
+		return linkMap;
+	}
+}
